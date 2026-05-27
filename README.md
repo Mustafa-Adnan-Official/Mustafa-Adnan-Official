@@ -63,16 +63,6 @@ Modern web development, systems, and automation.
 
 ---
 
-## GitHub
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Mustafa-Adnan-Official&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" />
-
-</div>
-
----
-
 <div align="center">
 
 Build thoughtfully. Learn aggressively. Ship consistently.
