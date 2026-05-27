@@ -37,9 +37,11 @@ Currently focused on full-stack development, AI systems, automation, and modern 
 ## Current Focus
 
 ### Mantix
+
 Software, AI, and digital products designed with reason.
 
 ### DevSlinger
+
 Modern web development, systems, and automation.
 
 ---
@@ -48,7 +50,24 @@ Modern web development, systems, and automation.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,c,java,react,nextjs,nodejs,express,firebase,tailwind,mysql,git,github,vscode,linux" />
+### Languages & Frameworks
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,html,css,java,cpp,c,sql,ruby,dart" />
+
+<br/>
+<br/>
+
+### Development Environment
+
+`Cursor` • `Cursor CLI` • `VS Code` • `GitHub Copilot` • `OpenCode` • `Codex CLI`
+
+### AI & Automation
+
+`ChatGPT Plus` • `Codex` • `Claude Code` • `OpenClaw` • `OpenRouter`
+
+### Workflow & Project Management
+
+`Linear` • `Jira` • `GitHub` • `GitHub Desktop`
 
 </div>
 
@@ -56,10 +75,21 @@ Modern web development, systems, and automation.
 
 ## Selected Projects
 
-- CivicThreads
 - MFLRC Website
+- Mantix
+- DevSlinger
 - AI + Full-Stack Experiments
 - Systems & Automation Tools
+
+---
+
+## GitHub
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Mustafa-Adnan-Official&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" />
+
+</div>
 
 ---
 
